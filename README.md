@@ -19,7 +19,7 @@ or if it still doesn't work, try this:
 ```
 npx n8n
 ```
-5. N8N will be hosted in localhost:5678
+5. N8N will be hosted on localhost:5678
 
 
 ## Linux
@@ -65,7 +65,7 @@ sudo npm install n8n --location=global
 sudo npm audit fix
 n8n
 ```
-13. N8N will be hosted in localhost:5678
+13. N8N will be hosted on localhost:5678
 
 ## MacOS
 1. Run the following commands to install homebrew package manager:
